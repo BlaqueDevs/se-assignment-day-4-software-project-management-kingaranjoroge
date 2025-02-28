@@ -132,6 +132,13 @@ Benefits of Developing a Detailed Project Schedule
 4. facilitates risk management: allows early identification of potential delays, enabling proactive solutions
 5. Ensures stakeholder alignment – Keeps teams, clients, and managers on the same page regarding milestones and deliverables.
 
+How Gantt Charts Assist in Project Scheduling
+1. Visualizing the Project Timeline – Shows when each task starts and ends, making it easy to track progress.
+2. Identifying Dependencies – Highlights which tasks must be completed before others can begin.
+3. Managing Workloads – Helps distribute work evenly across the team.
+4.  Tracking Progress – Updates can be made to reflect task completion, delays, or schedule adjustments.
+5.  Enhancing Communication – Provides a simple, shareable overview of project progress for stakeholders.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
